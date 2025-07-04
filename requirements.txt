@@ -3,3 +3,4 @@ rsa
 pybase64
 uvicorn
 dotenv
+cryptography
