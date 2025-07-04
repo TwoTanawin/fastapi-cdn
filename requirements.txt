@@ -1,0 +1,5 @@
+fastapi
+rsa
+pybase64
+uvicorn
+dotenv
